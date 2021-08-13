@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Summer Olympics 2020 - News</title>
+    <style type="text/css">
+#i {
+  background-color: #17354f;
+}
+
+body {
+  background-color: #173569;
+  background-position: left top;
+  background-repeat: no-repeat;
+}
+
+</style></head>
+  <body class="back">
+    <table style="width: 1000px; text-align: left; margin-left: auto; margin-right: auto;"
+      border="0">
+      <tbody>
+        <tr>
+          <td rowspan="1" colspan="5"><img src="images/SummerOlympics2020.png" alt="Summer Olympics Banner"
+              title="Summer Olympics Banner"><br>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 164.667px;"><a href="Summer%20Olympics%202020%20-%20Home.html"><img
+                src="images/homebtn.png" alt="Home" title="Home" style="width: 200px; height: 92px;"
+                onmouseout='document.homeBtn.src = "images/homebtn.png"' onmouseover='document.homeBtn.src = "images/homebtnpressed.png"'
+                name="homeBtn"></a><br>
+          </td>
+          <td style="margin-left: -186px; width: 184.583px;"><a href="Summer%20Olympics%202020%20-%20Sporting%20Events.html"><img
+                src="images/sportingeventsbtn.png" alt="Sporting Events" title="Sporting Events"
+                style="width: 200px; height: 92px;" onmouseout='document.sportingeventsBtn.src = "images/sportingeventsbtn.png"'
+                onmouseover='document.sportingeventsBtn.src = "images/sportingeventsbtnpressed.png"'
+                name="sportingeventsBtn"></a><br>
+          </td>
+          <td style="width: 211.583px; height: 96.4px;"><img src="images/newsbtnpressed.png"
+              alt="news pressed" title="news pressed" style="width: 195px; height: 91px;"><br>
+          </td>
+          <td style="width: 207.583px;"><a href="Summer%20Olympics%202020%20-%20Tokyo.html"><img
+                src="images/tokyobtn.png" alt="Tokyo" title="Tokyo" style="width: 195px; height: 92px;"
+                onmouseout='document.tokyoBtn.src = "images/tokyobtn.png"' onmouseover='document.tokyoBtn.src = "images/tokyobtnpressed.png"'
+                name="tokyoBtn"></a><br>
+          </td>
+          <td style="width: 215.583px;"><a href="Summer%20Olympics%202020%20-%20References.html"><img
+                src="images/referencesbtn.png" alt="References" title="References"
+                style="width: 194px; height: 92px;" onmouseout='document.referencesBtn.src = "images/referencesbtn.png"'
+                onmouseover='document.referencesBtn.src = "images/referencesbtnpressed.png"'
+                name="referencesBtn"></a><br>
+          </td>
+        </tr>
+        <tr>
+          <td style="height: 5px;" rowspan="1" colspan="5"><br>
+            <br>
+          </td>
+        </tr>
+        <tr>
+          <td style="height: 8px;" rowspan="1" colspan="2">
+            <div style="text-align: center;"><img src="images/recycled_beds.jpg"
+                alt="Recycled beds" title="Recycled beds" style="width: 380px; height: 224px;"><br>
+            </div>
+            <br>
+          </td>
+          <td style="height: 8px;" rowspan="1" colspan="3">
+            <pre style="color: white; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; overflow-wrap: break-word; white-space: pre-wrap;"><span
+style="font-family: Franklin Gothic; font-size: larger; color: white;"><span style="color: #faba1e;">Cardboard beds for the athletes</span>
+
+It may sound uncomfortable, but this year's Olympic athletes will be sleeping on beds partially made of cardboard. In an attempt to be environmentally friendly, they are using these beds that are almost entirely recyclable. Surprisingly, the cardboard beds can support tremendous weights and tall bodies - which is ideal for many of the Olympians who will be using them!
+</span><span style="font-family: Franklin Gothic; font-size: larger;"><br><a href="https://www.cnbc.com/2020/01/09/tokyo-2020-olympic-athletes-will-be-sleeping-on-cardboard-beds.html"
+target="_blank" style="color: #33ccff;">Read this article</a><br></span></pre>
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="1" colspan="3">
+            <pre style="color: white; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; overflow-wrap: break-word; white-space: pre-wrap;"><span
+style="font-family: Franklin Gothic; font-size: larger;"><br style="color: #faba1e;"><span
+style="color: #faba1e;">Hydrogen gas in Olympic torch</span>
+
+Following their goal to be eco-friendly, the Olympic torch will be powered with hydrogen for the first time. Traditionally, Olympic torches are powered with propane and/or butane, but hydrogen is considered a more "green" gas because it does not emit any carbon dioxide when it burns.
+<br><a href="https://www.capebretonpost.com/sports/tokyo-2020-to-power-olympic-torch-with-hydrogen-for-first-time-403165/"
+target="_blank" style="color: #33ccff;">Read this article</a>
+</span></pre> </td>
+          <td rowspan="1" colspan="2" style="text-align: center;"><img src="images/hydrogen-gas-torch.jpg"
+              alt="Hydrogen gas Olympic torch" title="Hydrogen gas Olympic torch"
+              style="width: 388px; height: 258px;"><br>
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="1" colspan="2" style="text-align: center;"><img src="images/olympic-protest.jpg"
+              alt="Olympic protest 2019" title="Olympic protest 2019" style="width: 383px; height: 259px;"><br>
+          </td>
+          <td rowspan="1" colspan="3">
+            <pre style="color: white; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; overflow-wrap: break-word; white-space: pre-wrap;"><span
+style="font-family: Franklin Gothic; font-size: larger;"><br><span style="color: #faba1e;">Athlete protests may be inevitable</span>
+
+Over the last few years, there have been various cases of athlete protests, like kneeling during a national anthem, to show their stance on politics, and often specifically on racism. The Olympic committee wants to prevent such protests and remove politics from the games this summer, and may hand out suspensions to any athletes who do make a political statement - whether verbal or not. Despite their attempts to stop these actions, it is expected that some athletes will still proceed to perform them anyway.
+<br><a href="https://www.cnn.com/2020/01/25/sport/edwin-moses-racism-olympic-protest-ban-spt-intl/index.html"
+target="_blank" style="color: #33ccff;">Read this article</a><br></span></pre>
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="1" colspan="5">
+            <pre style="color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; overflow-wrap: break-word; white-space: pre-wrap;"><span
+style="font-family: Franklin Gothic; font-size: larger;"><br><span style="color: white; font-size: small;">Have any interesting news items about the Olympics that you want to share? Please let us know at <a
+href="mailto:news@theolympics.com" style="color: #33ccff;">news@theolympics.com</a>.</span><span
+style="font-family: Franklin Gothic; font-size: larger;"></span>
+</span>
+</pre></td>
+        </tr>
+        <tr>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Summer Olympics 2020 - Sporting Events</title>
+    <style type="text/css">
+#i {
+  background-color: #17354f;
+}
+
+body {
+  background-color: #173569;
+  background-position: left top;
+  background-repeat: no-repeat;
+}
+
+span {
+  color: white;
+  font-weight: lighter;
+}
+
+#header {
+  color: white;
+}
+
+#text {
+  color: white;
+  font-size: larger;
+}
+
+#archery {
+  font-size: x-large;
+}
+
+#Sports {
+  font-size: large;
+}
+
+tbody {
+  color: white;
+}
+
+ul {
+  font-size: medium;
+}
+
+#items {
+  color: white;
+}
+
+#items:hover {
+  color: #ccffff;
+}
+
+#border {
+  border-style: solid;
+}
+
+#lin {
+  color: #33ccff;
+}
+
+</style></head>
+  <body class="back">
+    <table style="width: 1000px; text-align: left; margin-left: auto; margin-right: auto;"
+      border="0">
+      <tbody id="border">
+        <tr>
+          <td rowspan="1" colspan="5"><img src="images/SummerOlympics2020.png" alt="Summer Olympics Banner"
+              title="Summer Olympics Banner"><br>
+          </td>
+        </tr>
+        <tr>
+          <td style="height: 33px; width: 164.667px;"><a href="index.html"><img
+                src="images/homebtn.png" alt="Home" title="Home" style="width: 200px; height: 92px;"
+                onmouseout='document.homeBtn.src = "images/homebtn.png"' onmouseover='document.homeBtn.src = "images/homebtnpressed.png"'
+                name="homeBtn"></a><br>
+          </td>
+          <td style="height: 33px; margin-left: -186px; width: 184.583px;"><a href="sportingevents.html"><img
+                src="images/sportingeventsbtnpressed.png" alt="sporting pressed"
+                title="sporting pressed" style="width: 200px; height: 91px;"></a><br>
+          </td>
+          <td style="height: 33px; width: 211.583px;"><a href="news.html"><img src="images/newsbtn.png"
+                alt="News" title="News" style="width: 195px; height: 92px;" onmouseout='document.newsBtn.src = "images/newsbtn.png"'
+                onmouseover='document.newsBtn.src = "images/newsbtnpressed.png"'
+                name="newsBtn"></a><br>
+          </td>
+          <td style="height: 33px; width: 207.583px;"><a href="tokyo.html"><img
+                src="images/tokyobtn.png" alt="Tokyo" title="Tokyo" style="width: 195px; height: 92px;"
+                onmouseout='document.tokyoBtn.src = "images/tokyobtn.png"' onmouseover='document.tokyoBtn.src = "images/tokyobtnpressed.png"'
+                name="tokyoBtn"></a><br>
+          </td>
+          <td style="height: 33px; width: 215.583px;"><a href="references.html"><img
+                src="images/referencesbtn.png" alt="References" title="References"
+                style="width: 194px; height: 92px;" onmouseout='document.referencesBtn.src = "images/referencesbtn.png"'
+                onmouseover='document.referencesBtn.src = "images/referencesbtnpressed.png"'
+                name="referencesBtn"></a><br>
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="1" colspan="5" style="height: 237.233px;">
+            <h3 style="    color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; overflow-wrap: break-word; white-space: pre-wrap;"><br><span
+style="font-family: Franklin Gothic;">The most anticipated sporting events at the 2020 Summer Olympics are:</span></h3>
+            <ul id="items">
+              <li>
+                <pre style="        color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; overflow-wrap: break-word; white-space: pre-wrap;"><span
+style="font-family: Franklin Gothic; color: white;"><a href="#archery" style="color: #33ccff;">Archery</a></span></pre>
+              </li>
+              <li>
+                <pre style="        color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; overflow-wrap: break-word; white-space: pre-wrap;"><span
+style="font-family: Franklin Gothic; color: white;"><a href="#fencing" style="color: #33ccff;">Fencing</a><br></span></pre>
+              </li>
+              <li>
+                <pre style="        color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; overflow-wrap: break-word; white-space: pre-wrap;"><span
+style="font-family: Franklin Gothic; color: white;"><a href="#golf" style="color: #33ccff;">Golf</a> <br></span></pre>
+              </li>
+              <li>
+                <pre style="        color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; overflow-wrap: break-word; white-space: pre-wrap;"><span
+style="font-family: Franklin Gothic; color: white;"><a href="#surfing" style="color: #33ccff;">Surfing</a> <br></span></pre>
+              </li>
+              <li>
+                <pre style="        color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; overflow-wrap: break-word; white-space: pre-wrap;"><span
+style="font-family: Franklin Gothic; color: white;"><a href="#tennis" style="color: #33ccff;">Tennis</a> <br></span></pre>
+              </li>
+              <li>
+                <pre style="        color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; overflow-wrap: break-word; white-space: pre-wrap;"><span
+style="font-family: Franklin Gothic; color: white;"><a href="#listofsports" style="color: #33ccff;">Full list of sports</a> </span></pre>
+              </li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="1" colspan="4" style="height: 162.633px;">
+            <h2><span style="font-family: Franklin Gothic;"><a id="archery" style="color: #faba1e;">Archery</a></span></h2>
+            <p><span style="color: #333333;"><span style="font-family: HelveticaNeueW,Arial,Helvetica,sans-serif;">In
+                  1200 BC the Hittites and Assyrians shot their bows from
+                  chariots, becoming fearsome opponents in battle. They made
+                  their bows with tendon, horn and wood and also developed a new
+                  re-curved shape. This made their bows shorter and more
+                  powerful, making them easier to handle for an archer on
+                  horseback.</span></span></p>
+          </td>
+          <td style="text-align: center;"><img src="images/proposed-archery-field.jpg"
+              alt="Proposed archery field" title="Proposed archery field" style="width: 191px; height: 157px;"><br>
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="1" colspan="4"> <br>
+            <h2><span style="font-family: Franklin Gothic;"><a id="fencing" style="color: #faba1e;">Fencing</a></span></h2>
+            <span style="color: #333333;"><span style="font-family: HelveticaNeueW,Arial,Helvetica,sans-serif;">Three
+                innovations in the 17th and 18th century led to the popularity
+                of fencing as a sport: the “foil” – a weapon with a flattened
+                tip; a set of rules governing the target area; and the wire-mesh
+                mask. Together, these developments ensured the safety of
+                fencing’s participants.</span></span><br>
+          </td>
+          <td style="text-align: center;"><img src="images/Fencing-Venue-2020.jpg"
+              alt="Fencing venue for 2020 Olympics" title="Fencing venue for 2020 Olympics"
+              style="width: 184px; height: 138px;"><br>
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="1" colspan="4">
+            <h2><span style="color: #faba1e;"><span style="font-family: Franklin Gothic;"><a
+                    id="golf" style="color: #faba1e;">Golf</a></span></span></h2>
+            <p><span style="color: #333333;"><span style="font-family: HelveticaNeueW,Arial,Helvetica,sans-serif;">Golf
+                  has been on the Olympic programme twice: in 1900 and 1904. At
+                  the 1900 Games in Paris, two events were staged: one for men
+                  and one for women. Americans Margaret Ives Abbott and Charles
+                  Edward Sands were the first Olympic champions in the two
+                  events.</span></span></p>
+          </td>
+          <td style="text-align: center;"><img src="images/Golf-Course-2020.jpg"
+              alt="Golf Course 2020" title="Golf Course 2020" style="width: 187px; height: 136px;"><br>
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="1" colspan="4" style="height: 19.2px;">
+            <h2><span style="font-family: Franklin Gothic;"><a id="surfing" style="color: #faba1e;">Surfing</a></span></h2>
+            <p><span style="color: #333333;"><span style="font-family: HelveticaNeueW,Arial,Helvetica,sans-serif;">The
+                  competition in Tokyo will be staged at Tsurigasaki Beach, on
+                  the Chiba Peninsula on shortboards, with 40 athletes split
+                  evenly between men and women. In competition, each surfer has
+                  unconditional right of way for their chosen direction, left or
+                  right, based on their priority and dictated by the Priority
+                  and Interference Rules. If a surfer without priority
+                  interferes with the ride of the surfer with priority, then a
+                  penalty may occur on the interfering surfer.<br>
+                </span></span></p>
+          </td>
+          <td style="text-align: center;"><img src="images/Tsurigasaki-Beach.jpg"
+              alt="Tsurigasaki Beach" title="Tsurigasaki Beach" style="width: 184px; height: 159px;"><br>
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="1" colspan="4">
+            <h2><span style="font-family: Franklin Gothic;"><a id="tennis" style="color: #faba1e;">Tennis</a></span></h2>
+            <p><span style="color: #333333;"><span style="font-family: HelveticaNeueW,Arial,Helvetica,sans-serif;">Tennis
+                  has a long Olympic history but withdrew from the programme
+                  after 1924. It did not return as a medal sport until 1988.
+                  Professionals are now welcome to compete, and the Olympic
+                  competition includes men's and women's singles and men's and
+                  women's doubles.</span></span></p>
+            <p><span style="color: #333333;"><span style="font-family: HelveticaNeueW,Arial,Helvetica,sans-serif;"><br>
+                </span></span></p>
+            <p><span style="color: #333333;"><span style="font-family: HelveticaNeueW,Arial,Helvetica,sans-serif;"><a
+                    href="Summer%20Olympics%202020%20-%20Sporting%20Events.html"
+                    id="lin">Back to top</a><br>
+                </span></span></p>
+          </td>
+          <td style="text-align: center;"><img src="images/Tennis-Venue.jpg" alt="Tennis Court 2020"
+              title="Tennis Court 2020" style="width: 184px; height: 195px;"><br>
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="1" colspan="4">
+            <h3 style=" color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; overflow-wrap: break-word; white-space: pre-wrap;"><span
+style="font-family: Franklin Gothic;"><a id="listofsports">The full list of sports is listed below</a>:<br></span></h3>
+            <ul>
+              <li><span style="font-family: Franklin Gothic;">Aquatics</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Archery</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Athletics</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Badminton</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Baseball/Softball</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Basketball</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Boxing</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Canoe</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Cycling</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Equestrian</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Fencing</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Football</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Golf</span><span style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Gymnastics</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Handball</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Hockey</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Judo</span><span style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Karate</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Modern Pentathlon</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Rowing</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Rugby</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Sailing</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Shooting</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Skateboarding</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Sport Climbing</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Surfing</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Table Tennis</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Taekwondo</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Tennis</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Triathlon</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Volleyball</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Weightlifting</span><span
+                  style="font-family: Franklin Gothic;"></span></li>
+              <li><span style="font-family: Franklin Gothic;">Wrestling</span></li>
+            </ul>
+            <p><br>
+            </p>
+            <p><span style="color: #333333;"><span style="font-family: HelveticaNeueW,Arial,Helvetica,sans-serif;"><a
+                    href="Summer%20Olympics%202020%20-%20Sporting%20Events.html"
+                    id="lin">Back to top</a></span></span></p>
+            <ul>
+            </ul>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
